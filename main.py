@@ -31,4 +31,4 @@ if b1:
         bar.progress(complete + 2, text="")
     time.sleep(1)
     bar.empty()
-    st.switch_page("Pages/pageA1.py")
+    st.switch_page("pages/pageA1.py")
