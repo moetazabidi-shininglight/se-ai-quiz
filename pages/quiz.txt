@@ -1,0 +1,47 @@
+A: (Critical Thinking) (30 pts)
+
+ * You're about to submit your assignment. But, you don't really understand that AI-generated part of your code. What do you do?
+	-> Ask the AI agent for explanation, then submit. (2)
+	-> Submit it as is. (1)
+	-> Rewrite that part yourself. (5)
+* I verify what an AI gives me before using it. (N)
+* I sometimes use AI-generated code without fully understanding it. (R)
+* I can tell whether an AI answer sounds convincing or wrong. (N)
+* I rarely look for a second source after getting an answer from AI. (R)
+* I worry when AI doesn't help me improve my coding skills. (N)
+
+B: (Self-Regulation) (20 pts)
+
+ * I don't really understand people who use AI in their code. (R)
+ * I can figure out how to fix my code without turning to AI. (N)
+ * I have personal rules about when I use an AI and when I don't. (N)
+ * I feel technically overwhelmed by the pace of AI evolution. (R)
+
+C: (Self-assessment) (25 pts)
+
+ * How well can you solve a problem without turning to AI. (/10) (N)
+ * How much do you find an AI answer convincing before using it. (/10) (R)
+ * How well could you explain to a family member how a generative AI produces its answer? (/5) (N)
+
+D: (Empathy/Social Intelligence) (25 pts)
+
+ * A teammate admits they used AI for the group project and is afraid of being caught. What do you do first?
+	-> It's not a big deal, everyone is using it. (1) 
+	-> Say nothing. (0)
+	-> Help them to be more independent to AI and redo the key parts. (5)
+	-> Tell them it's their problem (politely). (0)
+ * A teammate wants to ban AI completely from the project. And another one strongly disagree. What do you do?
+	-> Remain silent. (0)
+	-> Call an immediate vote by majority. (2)
+	-> Go with the person you agree with. (2)
+	-> Ask each person to explain their concerns. (5)
+* I find it hard to understand why some people can do their work without AI. (R)
+* A group in your class are presenting their AI-generated code with errors in front of your professor. What do you do?
+	-> Remain silent. (3)
+	-> Point out the errors. (1)
+	-> Talk to them privately about the errors and agree on a way to double-check next time. (5)
+* A teammate of your group suggested to use their AI-generated code to your project. What do you do?
+	-> Refuse to use it. (1)
+	-> Double-check it so it doesn't seem like AI and use it. (5)
+	-> Remain silent. (0)
+	-> Paste it into your code as it is. (1)
