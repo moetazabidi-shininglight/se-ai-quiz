@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+*.json
+results.csv
+visits.csv
+.venv/
+__pycache__/
