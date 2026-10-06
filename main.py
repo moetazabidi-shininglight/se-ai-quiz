@@ -3,6 +3,11 @@ import time
 import pandas as pd
 from utils import set_background
 set_background("thumb.jpg")
+st.set_page_config(
+    page_title="Software Engineering & Generative AI Quiz",
+    page_icon="🤖",
+    initial_sidebar_state="collapsed",
+)
 # Global Score
 from utils import log_visit
 log_visit()
