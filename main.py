@@ -28,7 +28,7 @@ st.markdown("- 18 questions; no right or wrong answers, just answer honestly.",t
 st.markdown("- Your answers are NOT going anywhere. It's compltely anonymous and voluntary.",text_alignment="center")
 st.markdown("- At the end you'll get your own personalized profile.",text_alignment="center")
 st.markdown("")
-st.caption("© 2026 Moetaz Abidi | Khalil Gharbi | Yassine Ben Youssef",text_alignment="center");
+st.caption("© 2026 Moetaz Abidi | Khalil Gharbi ",text_alignment="center");
 if b1:
     bar=st.progress(0, text="")
     for complete in range(50):
