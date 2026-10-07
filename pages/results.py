@@ -29,7 +29,7 @@ if sum(st.session_state.args)>80 :
     st.balloons()
 # Results
 st.markdown("")
-st.caption("© 2026 Moetaz Abidi | Khalil Gharbi | Yassine Ben Youssef",text_alignment="center");
+st.caption("© 2026 Moetaz Abidi | Khalil Gharbi ",text_alignment="center");
 #b=st.button("Return to Home Page",width="stretch")
 #if b:
 #    bar=st.progress(0, text="")
